@@ -1,0 +1,37 @@
+{
+  "os": "Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "python": "CPython 3.12.3",
+  "startedAt": "2025-01-23T17:54:42.115610Z",
+  "program": "/home/walke/college/cv/ass1/q2/edge.py",
+  "codePath": "edge.py",
+  "email": "sama.walke@students.iiit.ac.in",
+  "root": "/home/walke/college/cv/ass1/q2",
+  "host": "walke",
+  "executable": "/home/walke/college/cv/pfizer/bin/python3",
+  "codePathLocal": "edge.py",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "gpu": "NVIDIA GeForce RTX 3070 Ti Laptop GPU",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "1081101176832",
+      "used": "15633362944"
+    }
+  },
+  "memory": {
+    "total": "7910805504"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 16
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3070 Ti Laptop GPU",
+      "memoryTotal": "8589934592",
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.5"
+}
