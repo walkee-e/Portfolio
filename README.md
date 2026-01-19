@@ -1,8 +1,3 @@
-# Computer Vision and Deep Learning Portfolio
-
-This repository contains my implementations for the Spring 2025 Computer Vision course. The projects range from fundamental image processing to state-of-the-art transformer architectures.
-
----
 
 ### Folder 1: Image Processing and MLP Foundations
 This folder focuses on digital image processing (DIP) and basic neural network feature engineering.
